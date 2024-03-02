@@ -1,0 +1,27 @@
+Q12. Explain the importance of commnents in javascript and provides examples od single-line and multi-line commnents
+
+    solution: commnents in javascript are essential for code redability, manitanabillty, and collaboration among developers. 
+    They serve sveral imporatnace purpose.
+
+    1. Comm:nts provid: :xplanations and cont:xt about th: cod:'s purpos:, logic, and 
+    functionalityG This mak:s it :asi:r for oth:r d:v:lop:rs (or your futur: s:lf) to und:rstand and work with th: 
+    cod:.
+    2. Comm:nts can b: us:d to t:mporarily disabl: or "comm:nt out" cod: during d:bugging, 
+    h:lping you isolat: issu:s without d:l:ting cod:.
+    3. Comm:nts allow d:v:lop:rs to communicat: with :ach oth:r, :xplaining why c:rtain 
+    d:cisions w:r: mad: or d:scribing how sp:cific cod: s:gm:nts work.
+    4. Comm:nts can b: us:d to divid: cod: into logical s:ctions, making it :asi:r to navigat: and 
+    maintain larg:r cod:bas:s.
+    5. In som: cas:s, comm:nts may b: r:quir:d to :xplain lic:nsing, copyright 
+    information, or complianc: with r:gulations
+
+    1]single line commnets:
+        //This is the single line comments//
+
+    2]multiline commnets
+        /* This
+            is
+            the 
+            multiline
+            comments
+        */

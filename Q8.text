@@ -1,0 +1,8 @@
+Q8. Explain what javascript is and its role in web development
+
+Solutions:
+    javascript is a high-level, verstile programming language primarilly used in web developmen. its fundamental role is to enhance
+    web pages by adding interactivity and dynamic behavior. javascript runs directly in web browsers, allowing developers to create
+    features such as from validation, animations, and real time updates
+
+    javascript interacts with the document object model(DOM) wich represents the webpages 
